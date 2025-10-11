@@ -35,4 +35,4 @@ def getLongestPath(encoded):
         
     return dist
 
-print('the shortest path is: ' + str(getLongestPath(rEncoded)))
+print('the longest path is: ' + str(getLongestPath(rEncoded)))
